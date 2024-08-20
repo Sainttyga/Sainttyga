@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lindokuhle Zwane
-- 👀 I’m interested in being a Software and UI/UX Developer
+- 👀 I’m interested in being a Software, WEB and UI/UX Developer
 - 🌱 I’m currently learning IT in Software Development.
 - 💞️ I’m looking to collaborate on exciting software projects and innovative UI/UX designs.
 - 📫 How to reach me: londonleendouh111@gmail.com / (+27) 67 626 0389
