@@ -4,6 +4,15 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Graduate+Software+Developer;Full-Stack+%7C+Web+%7C+UI%2FUX;Building+Software.+Creating+Experiences.&font=Fira%20Code&center=true&width=700&height=45&color=00E5FF&vCenter=true&pause=1000">
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/lindokuhle-zwane-6b0077288" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sainttyga" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 > ⚡ **Building software. Creating experiences. Innovating daily.**
 
 ---
@@ -23,6 +32,7 @@ I enjoy transforming ideas into **clean, scalable software** and designing **use
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🌐 Web Technologies
