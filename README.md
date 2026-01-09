@@ -1,12 +1,76 @@
-- 👋 Hi, I’m @Lindokuhle Zwane
-- 👀 I’m interested in being a Software, WEB and UI/UX Developer
-- 🌱 I’m currently learning IT in Software Development.
-- 💞️ I’m looking to collaborate on exciting software projects and innovative UI/UX designs.
-- 📫 How to reach me: londonleendouh111@gmail.com / (+27) 67 626 0389
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Under construction
+# 👋 Hi, I’m Lindokuhle Zwane
 
-<!---
-Sainttyga/Sainttyga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Graduate+Software+Developer;Full-Stack+%7C+Web+%7C+UI%2FUX;Building+Software.+Creating+Experiences.&font=Fira%20Code&center=true&width=700&height=45&color=00E5FF&vCenter=true&pause=1000">
+</p>
+
+> ⚡ **Building software. Creating experiences. Innovating daily.**
+
+---
+
+## 🚀 About Me
+
+🎓 **Diploma in IT – Software Development Graduate**  
+💻 **Graduate Software Developer | Full-Stack | Web | UI/UX**
+
+I enjoy transforming ideas into **clean, scalable software** and designing **user-friendly digital experiences**.  
+🚧 Always learning. Always building.
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🌐 Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Databases
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 🎯 Focus Areas
+
+- Full-Stack Development  
+- Web Applications  
+- UI/UX (Human-Computer Interaction)  
+- Database Design  
+- Information Security  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LindokuhleZwane&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LindokuhleZwane&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Open To
+
+🚀 Software & Web Development Projects  
+🎨 UI/UX Design Collaboration  
+🌍 Open-Source Contributions  
+
+---
+
+## 📫 Let’s Connect
+
+📧 **londonleendouh111@gmail.com**  
+📍 Johannesburg, South Africa  
+
+---
+
+⚡ **Fun Fact:** Under construction — upgrading skills daily.
