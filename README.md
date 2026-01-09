@@ -66,9 +66,11 @@ I enjoy transforming ideas into **clean, scalable software** and designing **use
 
 ## 📫 Let’s Connect
 
-📧 **londonleendouh111@gmail.com**  
-📍 Johannesburg, South Africa  
+📧 **Email:** londonleendouh111@gmail.com  
+💼 **LinkedIn:** [Lindokuhle Zwane](https://www.linkedin.com/in/lindokuhle-zwane-6b0077288)  
+📍 **Location:** Johannesburg, South Africa  
 
 ---
+
 
 ⚡ **Fun Fact:** Under construction — upgrading skills daily.
